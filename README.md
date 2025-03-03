@@ -1,5 +1,5 @@
 # HVN Net Select
-This project is an official implementation of the paper "An Adaptive Network Selection Method for Enhancing Physical Layer Security in Heterogeneous Vehicular Networks", which proposes a fuzzy logic and TOPSIS-basedAdaptive Network Selection Method for Enhancing Physical Layer Security (PLS) in Heterogeneous Vehicular Networks (HVNs).
+This project is an official implementation of the paper "An Adaptive Network Selection Method for Enhancing Physical Layer Security in Heterogeneous Vehicular Networks", which proposes a fuzzy logic and TOPSIS-based Adaptive Network Selection Method for Enhancing Physical Layer Security (PLS) in Heterogeneous Vehicular Networks (HVNs).
 
 ## Citation
 If you use this code or dataset in your work, please cite the following paper:
