@@ -9,8 +9,6 @@ If you use this code or dataset in your work, please cite the following paper:
 
 ✅ Novel security metrics: first introduction of Connection Outage Probability (COP) and Secrecy Outage Probability (SOP) to network selection
 
-✅ Performance advantage: 29.58% COP and 22.29% SOP improvement over traditional methods
-
 ✅ Extensible model: stochastic geometry-based 2D network modelling supports multi-RAT scenario analysis
 
 # Usage Instructions
