@@ -4,6 +4,8 @@ This project is an official implementation of the paper "An Adaptive Network Sel
 ## Citation
 If you use this code or dataset in your work, please cite the following paper:
 
+Y. Zhong, F. Xiao and D. Li, "An Adaptive Network Selection Method for Enhancing Physical Layer Security in Heterogeneous Vehicular Networks," in IEEE Transactions on Vehicular Technology, vol. 74, no. 9, pp. 14675-14691, Sept. 2025, doi: 10.1109/TVT.2025.3564987.
+
 # Core contributions
 ✅ Hybrid assessment framework: combining fuzzy logic pre-screening, AHP/EWM weighting analysis, and TOPSIS decision-making
 
